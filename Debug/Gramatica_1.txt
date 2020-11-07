@@ -1,0 +1,9 @@
+SAB
+ab
+S
+S,aA
+A,bB
+A,aA
+B,b
+B,bB
+B,00

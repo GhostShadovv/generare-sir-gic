@@ -1,0 +1,9 @@
+SAC
+abc
+S
+S,abc
+S,aAbC
+A,aAb
+A,ab
+C,cC
+C,c
